@@ -13,7 +13,6 @@ public class Main {
             Arrays.asList(1,2,3,4,5));
 
 
-
     public static void main(String[] args) {
 //        new for in java 8
         Long one=logTime();

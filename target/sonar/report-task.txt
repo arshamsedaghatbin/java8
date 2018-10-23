@@ -1,0 +1,6 @@
+projectKey=java8:com.kiandigital
+serverUrl=http://localhost:9000
+serverVersion=7.1.0.11001
+dashboardUrl=http://localhost:9000/dashboard/index/java8:com.kiandigital
+ceTaskId=AWaciEsVL-8_Bzc9nhkd
+ceTaskUrl=http://localhost:9000/api/ce/task?id=AWaciEsVL-8_Bzc9nhkd
